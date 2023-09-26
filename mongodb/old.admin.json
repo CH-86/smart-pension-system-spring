@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "621b16ab80a6e66e77284861"
+  },
+  "admin": "root",
+  "password": "123",
+  "type": 3,
+  "logs": []
+},
+{
+  "_id": {
+    "$oid": "6243c5c0b795e6dd4dd4265d"
+  },
+  "admin": "doc",
+  "password": "123",
+  "type": 1,
+  "logs": [],
+  "nearId": "621c61487bdf101566cb7dda"
+},
+{
+  "_id": {
+    "$oid": "6243c5fab795e6dd4dd42660"
+  },
+  "admin": "nur",
+  "password": "123",
+  "type": 4,
+  "logs": [],
+  "nearId": "621c64157bdf101566cb7ddd"
+}]

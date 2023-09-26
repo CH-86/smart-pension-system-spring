@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "621c64157bdf101566cb7ddd"
+  },
+  "department": "护理",
+  "name": "张护士",
+  "position": "高级",
+  "status": true,
+  "_class": "cn.edu.zucc.entity.Nurse"
+},
+{
+  "_id": {
+    "$oid": "62447eaec55c7046df3fde1e"
+  },
+  "department": "护理",
+  "name": "李护士",
+  "position": "中级",
+  "status": true,
+  "_class": "cn.edu.zucc.entity.Nurse"
+},
+{
+  "_id": {
+    "$oid": "62447f84c55c7046df3fde21"
+  },
+  "department": "护理",
+  "name": "李护士",
+  "position": "初级",
+  "status": true,
+  "_class": "cn.edu.zucc.entity.Nurse"
+},
+{
+  "_id": {
+    "$oid": "627142f7c73c035bf6f5a446"
+  },
+  "department": "护理",
+  "name": "王护士",
+  "position": "中级",
+  "status": true,
+  "_class": "cn.edu.zucc.entity.Nurse"
+}]
